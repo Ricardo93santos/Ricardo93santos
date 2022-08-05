@@ -4,7 +4,7 @@ I'm Ricardo Santos
 
 Programador Front-End 💻
 
-Estudante de Análise e Desenvolvimento de Sistemas | Estou focado nos estudos Fullstack 📖
+Estudante de Análise e Desenvolvimento de Sistemas | Focado na carreira de Desenvolvedor Web 📖
 <hr>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo93santos&show_icons=true&theme=gruvbox"/><br>
