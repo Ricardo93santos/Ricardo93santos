@@ -2,7 +2,7 @@
 
 I'm Ricardo Santos
 
-Programador Front-End 💻
+Desenvolvedor Web 💻
 
 Estudante de Análise e Desenvolvimento de Sistemas | Focado na carreira de Desenvolvedor Web 📖
 <hr>
