@@ -16,15 +16,18 @@ Estudante de Análise e Desenvolvimento de Sistemas | Focado na carreira de Dese
   <img aling="center" alt="Ricardo-HTML" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img aling="center" alt="Ricardo-CSS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img aling="center" alt="Ricardo-JS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img aling="center" alt="Ricardo-PHP" height="60" widht="90"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img aling="center" alt="Ricardo-Git" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+ <img aling="center" alt="Ricardo-MySql" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div>
 
 ### 🔨 Tchnologies and tools That I am studying or I will study:
 <div>
+<img aling="center" alt="Ricardo-Laravel" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img aling="center" alt="Ricardo-React" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img aling="center" alt="Ricardo-Node.JS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img aling="center" alt="Ricardo-AngularJS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img aling="center" alt="Ricardo-MySql" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 
