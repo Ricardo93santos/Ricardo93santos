@@ -1,14 +1,8 @@
-<br clear="both">
+<div align="center">
+  <img height="135" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkzYzhxbjlrbnlsN2Y4c3hvcm5wNzd6anhodmc1aXVibDdka2lpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0Aw62aN7EBhib6/giphy.webp"  />
+</div>
 
-<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkzYzhxbjlrbnlsN2Y4c3hvcm5wNzd6anhodmc1aXVibDdka2lpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0Aw62aN7EBhib6/giphy.webp"  />
-
-###
-
-<h2 align="left">Hello People, I'm Ricardo!!</h2>
-
-###
-
-<br clear="both">
+<h2 align="center">Hello People, I'm Ricardo!!</h2>
 
 <h3 align="left">Abaut Me</h3>
 
@@ -16,7 +10,7 @@
 
 ###
 
-<h4 align="left">Technologies and Tools Used</h4>
+<h4 align="left">Technologies and Stack Used</h4>
 
 ###
 
@@ -51,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo93santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo93santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo93santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
