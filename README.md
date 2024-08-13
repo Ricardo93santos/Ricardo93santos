@@ -1,40 +1,72 @@
-## Hi 👋 🤓
+<br clear="both">
 
-I'm Ricardo Santos
+<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkzYzhxbjlrbnlsN2Y4c3hvcm5wNzd6anhodmc1aXVibDdka2lpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0Aw62aN7EBhib6/giphy.webp"  />
 
-Desenvolvedor Web 💻
+###
 
-Analisata e Desenvolvedor de Sistemas | Focado na carreira de Desenvolvedor Web 📖
-<hr>
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo93santos&show_icons=true&theme=gruvbox"/><br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo93santos&layout=compact&theme=gruvbox"/>
+<h2 align="left">Hello People, I'm Ricardo!!</h2>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Abaut Me</h3>
+
+<p align="left">I am a Systems Analyst and Developer, focusing on web development. From an enthusiast to an aspiring front-end developer, I am always looking to learn new market trends, without forgetting consolidated technologies!</p>
+
+###
+
+<h4 align="left">Technologies and Tools Used</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-### 🔨 Technologies end tools I use:
-<div> 
-  <img aling="center" alt="Ricardo-HTML" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="center" alt="Ricardo-CSS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" alt="Ricardo-JS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img aling="center" alt="Ricardo-PHP" height="60" widht="90"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img aling="center" alt="Ricardo-Git" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
- <img aling="center" alt="Ricardo-MySql" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- </div>
+###
 
-### 🔨 Tchnologies and tools That I am studying or I will study:
-<div>
-<img aling="center" alt="Ricardo-Laravel" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<img aling="center" alt="Ricardo-React" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img aling="center" alt="Ricardo-Node.JS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img aling="center" alt="Ricardo-AngularJS" height="60" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<h4 align="left">Technologies I Want to Learn</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
+###
 
-### 🤜🤛 Let's connect:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo93santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricardo93santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-santos-997429145/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033654708986)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardosantos4828/)
-<img alt="StackOverflow" src="https://img.shields.io/website?label=Stack&style=for-the-badge&up_color=orange&up_message=Overflow&url=https%3A%2F%2Fpt.stackoverflow.com%2Fusers%2F287559%2Fricardo-santos">
+###
+
+<h4 align="left">Let's connect:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ricardo-santos-997429145" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="38" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="56" height="38" alt="stackoverflow logo"  />
+  <a href="https://wa.me/77933016666" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="38" alt="whatsapp logo"  />
+  </a>
+</div>
