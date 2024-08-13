@@ -51,7 +51,7 @@
 
 ###
 
-<h4 align="left">Let's connect:</h4>
+<h4 align="left">Let's connect</h4>
 
 ###
 
