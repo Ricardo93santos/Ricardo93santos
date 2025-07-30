@@ -2,7 +2,7 @@
 # Ricardo Santos
 
 🎯 Junior Full Stack Developer — from Brazil to the World  
-🧰 Working with TypeScript, React, Remix, NestJS, Tailwind, Prisma
+🧰 Working with TypeScript, React, Remix, NestJS, Tailwind, Prisma  
 🌱 Constantly learning and growing in the tech world
 
 ---
